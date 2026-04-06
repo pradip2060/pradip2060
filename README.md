@@ -80,17 +80,8 @@ learning:   React · WebAR · ML models · Japanese tech ecosystem
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pradip2060&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-![Pradip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradip2060&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradip2060&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
